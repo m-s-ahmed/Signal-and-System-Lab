@@ -24,3 +24,5 @@ xlabel('Time(second)');
 ylabel('Signal Amplitude');
 title('Exponentially Growing Sinusoidal Signal');
 grid on
+
+% M.S.Ahmed

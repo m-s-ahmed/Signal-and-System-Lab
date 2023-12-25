@@ -24,3 +24,4 @@ ylabel('Signal Amplitude');
 title('Exponentially Decaying Sinusoidal Signal');
 grid on
 
+% M.S.Ahmed

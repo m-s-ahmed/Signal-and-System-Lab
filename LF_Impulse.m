@@ -22,3 +22,5 @@ xlabel('Time(second)');
 ylabel('Signal Amplitude');
 title('Unit Impulse Signal');
 grid on
+
+% M.S.Ahmed

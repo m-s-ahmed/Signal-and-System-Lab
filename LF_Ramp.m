@@ -23,3 +23,5 @@ xlabel('Time(second)');
 ylabel('Signal Amplitude');
 title('Unit Ramp Signal');
 grid on
+
+% M.S.Ahmed
